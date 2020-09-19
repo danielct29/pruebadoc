@@ -1,7 +1,11 @@
+# Version
+version: 2
 
+# Build all formats
+formats: all
 
-
+# Requirements
 python:
   version: 3.7
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
