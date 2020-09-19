@@ -25,7 +25,7 @@ Indices and tables
 Modulo de tasas
 ===============
 
-.. automodule:: Finance.tasas
+.. automodule:: tasas
    :members:
 
 
