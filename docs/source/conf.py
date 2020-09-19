@@ -71,7 +71,7 @@ html_theme_options = {
     'style_external_links': False,
     'style_nav_header_background': '#dd141d', # Codigo del rojo davivienda
     # Toc options
-    'collapse_navigation': True,
+    'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 4,
     'includehidden': True,
