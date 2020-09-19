@@ -14,18 +14,18 @@ Welcome to Finance's documentation!
 
 
 
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
 
 Modulo de tasas
 ===============
 
-.. automodule:: tasas
+.. automodule:: Finance.tasas
    :members:
 
 
